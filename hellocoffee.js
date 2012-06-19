@@ -2,6 +2,8 @@
 (function() {
   var DOWN, LEFT, RIGHT, UP, caneat, createGameField, direction, downMovePossible, endGame, fieldHeight, fieldWidth, gameField, gameOverIndicator, getRandNum, go, grow, leftMovePossible, move, moveSnake, newGame, placeEat, pointIndicator, points, rightMovePossible, snake, start, startX, startY, upMovePossible, xeatcoord, yeatcoord;
 
+  alert(1);
+
   pointIndicator = null;
 
   points = 0;
